@@ -177,13 +177,11 @@ Configured CORS correctly in Socket.io server settings.
 
 # 📸 Screenshots
 
-![Presence Screen](screenshots/presence.png)
-
 ## Presence Screen
 
 Shows online status of Customer and Agent.
 
-[Insert Screenshot]
+![Presence Screen](screenshots/presence.png)
 
 ---
 
@@ -191,7 +189,7 @@ Shows online status of Customer and Agent.
 
 Displays call duration and control buttons.
 
-[Insert Screenshot]
+![Presence Screen](screenshots/presence.png)
 
 ---
 
@@ -199,7 +197,7 @@ Displays call duration and control buttons.
 
 Shows messages exchanged during call.
 
-[Insert Screenshot]
+![Presence Screen](screenshots/presence.png)
 
 ---
 
