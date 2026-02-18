@@ -177,7 +177,7 @@ Configured CORS correctly in Socket.io server settings.
 
 # 📸 Screenshots
 
-(Add screenshots here before submission)
+![Presence Screen](screenshots/presence.png)
 
 ## Presence Screen
 
