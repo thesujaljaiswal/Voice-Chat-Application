@@ -275,13 +275,15 @@ Configured Socket.io CORS settings properly.
 
 ## Active Call Screen
 
-![Call](screenshots/call.png)
+![Call1](screenshots/call1.png)
+![Call2](screenshots/call2.png)
 
 ---
 
 ## Chat Screen
 
-![Chat](screenshots/chat.png)
+![Chat1](screenshots/chat1.png)
+![Chat2](screenshots/chat2.png)
 
 ---
 
