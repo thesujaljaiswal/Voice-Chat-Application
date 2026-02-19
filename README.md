@@ -264,8 +264,6 @@ Configured Socket.io CORS settings properly.
 
 # 📸 Screenshots
 
-(Add screenshots here)
-
 ## Presence Screen
 
 ![Presence1](screenshots/presence1.png)
